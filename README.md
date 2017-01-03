@@ -1,3 +1,2 @@
-# `<text-search-behavior>`
+[![Build Status](https://travis-ci.org/advanced-rest-client/text-search-behavior.svg?branch=master)](https://travis-ci.org/advanced-rest-client/text-search-behavior)  
 
-Text search behavior to implement search behavior on platforms that doesn't support native text search
